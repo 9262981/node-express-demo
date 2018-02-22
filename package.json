@@ -1,0 +1,17 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "express demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "SimonSun",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "formidable": "^1.1.1",
+    "mongodb": "^3.0.2",
+    "mysql": "^2.15.0"
+  }
+}
